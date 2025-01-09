@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Что такое Python?",
+        "options": ["Язык программирования", "Тип данных", "Музыкальный инструмент", "Змея на английском"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой тип данных используется для хранения целых чисел?",
+        "options": ["int", "float", "str", "natural"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какая из встроенных функций Python может быть использована для нахождения модуля числа?",
+        "options": ["round", "abs", "divmod", "pow"],
+        "correct_option": 1
+    },
+    {
+        "question": "Какой из методов используется для преобразования строки в верхний регистр?",
+        "options": ["upper()", "capitalize()", "lower()", "title()"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой из методов используется для соединения подстрок в одну строку по заданному разделителю?",
+        "options": ["split()", "join()", "replace()", "strip()"],
+        "correct_option": 1
+    },
+    {
+        "question": "Что возвращает функция len() при передаче в неё строки?",
+        "options": ["количество элементов объекта", "количество символов", "количество байт", "ошибка"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой из методов используется для удаления пробельных символов с начала и конца строки?",
+        "options": ["lstrip()", "rstrip()", "strip()", "все предыдущие варианты"],
+        "correct_option": 2
+    },
+    {
+        "question": "Какой тип данных в Python представляет кортежи?",
+        "options": ["dict", "list", "tuple", "set"],
+        "correct_option": 2
+    },
+    {
+        "question": "Какой тип данных в Python представляет словари?",
+        "options": ["dict", "list", "tuple", "set"],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой тип данных в Питоне представляет множества?",
+        "options": ["dict", "list", "tuple", "set"],
+        "correct_option": 3
+    }
+]
